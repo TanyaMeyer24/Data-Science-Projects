@@ -1,0 +1,9 @@
+HOW TO INSTALL THE PCA VISUALISATION APP:
+1. Download the three files.
+2. Add the download location as the directory path.
+3. Open and run PCA_Visual_Base.mat
+4. The app will now appear in a separate window.
+
+HOW TO USE:
+You have two handles on the sliding bars corresponding to the x- and y- viewpoint.
+The viewpoint is then visualised in the two plots with the resulting loading vectors on the bottom right.
